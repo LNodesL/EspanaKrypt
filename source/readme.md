@@ -18,8 +18,8 @@ EspanaKrypt is a fork of Ricky5panish's PE Runtime Crypter.
 
 Changes made:
 
-- addition of skCrypter for compile time string encryption & runtime decryption
 - an easier method to convert the original PE to bytes for inclusion in the crypter (BTCH)
+- documentation for normal usage & devs
 
 If you are interested in the original code, visit Ricky5panish Github below. Note: I have no affiliation with this user.
 
