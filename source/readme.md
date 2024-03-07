@@ -14,14 +14,14 @@ The original stub file that has all logic for executing a binary in runtime. Is 
 Simple test file to compile into a PE to test the crypter (EspanaKrypt.exe) by dragging & dropping helloworld onto the crypter, or by CLI.
 
 ## Forked / Origin Story
-EspanaKrypt is a fork of Ricky5Spanish's PE Runtime Crypter. 
+EspanaKrypt is a fork of Ricky5panish's PE Runtime Crypter. 
 
 Changes made:
 
 - addition of skCrypter for compile time string encryption & runtime decryption
 - an easier method to convert the original PE to bytes for inclusion in the crypter (BTCH)
 
-If you are interested in the original code, visit Ricky5Spanish Github below. Note: I have no affiliation with this user.
+If you are interested in the original code, visit Ricky5panish Github below. Note: I have no affiliation with this user.
 
 https://github.com/Ricky5panish/PE-Runtime-Crypter
 
